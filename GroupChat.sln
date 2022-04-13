@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupChat.API", "GroupChat.API\GroupChat.API.csproj", "{9F00F210-7C33-47EB-A5CB-E6935DF8895D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupChat.ViewModels", "GroupChat.ViewModels\GroupChat.ViewModels.csproj", "{1ED8D2E5-6637-4365-82D6-963C0CF2594D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F00F210-7C33-47EB-A5CB-E6935DF8895D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F00F210-7C33-47EB-A5CB-E6935DF8895D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F00F210-7C33-47EB-A5CB-E6935DF8895D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F00F210-7C33-47EB-A5CB-E6935DF8895D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED8D2E5-6637-4365-82D6-963C0CF2594D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED8D2E5-6637-4365-82D6-963C0CF2594D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED8D2E5-6637-4365-82D6-963C0CF2594D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED8D2E5-6637-4365-82D6-963C0CF2594D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7968EBF4-64DC-46F5-AF1D-FBABB61F4313}
+	EndGlobalSection
+EndGlobal
